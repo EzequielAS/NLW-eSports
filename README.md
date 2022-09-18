@@ -1,4 +1,4 @@
-# Coffee Delivery
+# NLW eSports
 
 ### Skills importantes no projeto:
 <ul>
