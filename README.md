@@ -4,6 +4,8 @@
 <ul>
   <li>Tailwind</li>
   <li>Radix UI</li>
+  <li>Prisma</li>
+  <li>SQLite</li>
 </ul>
 
 ### Home
